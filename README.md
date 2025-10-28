@@ -3,8 +3,11 @@
  <strong> "As coisas mais importantes que eu já fiz, eu fiz com medo de fazê-las". Mas eu fiz!!! </strong> <br>
 
 Muito prazer!!
-Sou técnica em Desenvolvimento de Sistemas e Discente em Ciência da Computação na Universidade Federal de São Carlos.
-Atualmente, sou membro do conselho na Liga de Mercado Financeiro da UFSCar e já ocupei o cargo de diretoria na área de Hub de Tecnologia. Liderei uma equipe de seis pessoas (5 trainees e 1 Analista), de forma estratégica e respeitosa, pensando sempre no bem estar da equipe e nos resultados.Também já passei pelos cargos de trainee e analista júnior nessa área, buscando desenvolver minhas soft skills e hard skills através de projetos em programação, treinamentos (participante e ministrante), aulas e cases.
+Sou técnica em Desenvolvimento de Sistemas e discente em Ciência da Computação na Universidade Federal de São Carlos.
+
+Hoje, estou iniciando a minha carreira com muita humildade para aprender, ocupando o cargo de estagiária de Automações e Operações de TI no Itaú Unibanco.
+
+Acesse o meu LinkedIn e me conheça mais!
 </p>
 
 <p align="left">
