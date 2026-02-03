@@ -17,7 +17,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: AnaJuvencio
-          THEME: github_dark
 
       - name: Commit and push
         run: |
