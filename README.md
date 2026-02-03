@@ -34,17 +34,21 @@ Acesse o meu LinkedIn e me conheça mais!
     <td>
       <img
         align="left"
-        src= "https://github-readme-stats.vercel.app/api?username=AnaJuvencio&theme=dark&hide_border&show_icons=true)" alt="Github stats" />
+        src="https://github-readme-stats.vercel.app/api?username=AnaJuvencio&amp;theme=dark&amp;hide_border=true&amp;show_icons=true&amp;include_all_commits=true"
+        alt="GitHub stats"
+      />
     </td>
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaJuvencio&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github stats"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaJuvencio&amp;theme=dark&amp;hide_border=true&amp;layout=compact"
+        alt="Top languages"
       />
     </td>
   </tr>
 </table>
+
+
 
 <!--<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
