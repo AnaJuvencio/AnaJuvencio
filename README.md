@@ -29,24 +29,12 @@ Acesse o meu LinkedIn e me conheça mais!
 
 ---
 ## ⭐ Informações sobre minha conta GitHub
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=AnaJuvencio&amp;theme=dark&amp;hide_border=true&amp;show_icons=true&amp;include_all_commits=true"
-        alt="GitHub stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaJuvencio&amp;theme=dark&amp;hide_border=true&amp;layout=compact"
-        alt="Top languages"
-      />
-    </td>
-  </tr>
-</table>
+
+![](./profile-summary-card-output/github_dark/0-profile-details.svg)
+![](./profile-summary-card-output/github_dark/1-repos-per-language.svg)
+![](./profile-summary-card-output/github_dark/2-most-commit-language.svg)
+![](./profile-summary-card-output/github_dark/3-stats.svg)
+![](./profile-summary-card-output/github_dark/4-productive-time.svg)
 
 
 
